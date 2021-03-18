@@ -8,4 +8,5 @@ Kemal
 Hamit
 selim
 Sevda 
-dunya 
+dünya 
+para 
