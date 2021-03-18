@@ -10,3 +10,4 @@ selim
 Sevda 
 dünya 
 para 
+sdi 
